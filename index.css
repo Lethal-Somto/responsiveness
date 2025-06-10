@@ -107,4 +107,6 @@ footer{
     display: flex;
     font-size: 1.7rem;
     margin-left: 1rem;
+    text-align: center;
+    color: red;
 }
