@@ -11,7 +11,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 5rem;
-    height: 120vh;
+    height: 130vh;
     align-items: center;
 }
 header{
@@ -109,5 +109,5 @@ footer{
     margin-left: 1rem;
     text-align: center;
     color: blue;
-    margin-bottom: 1rem;
+    
 }
